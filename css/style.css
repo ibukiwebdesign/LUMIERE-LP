@@ -215,6 +215,10 @@ img{
     position: relative;
     margin-bottom: 85px;
 }
+.concept_img_product,
+.concept_img_woman {
+    box-shadow: 4px 4px 2px 0 rgba(64, 57, 54, 0.25);
+}
 .concept_img_product{
     display: block;
     margin-left: auto;
