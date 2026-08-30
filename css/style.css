@@ -152,14 +152,14 @@ img{
 
 .fv_text{
     position: absolute;
-    bottom: 80px;
+    bottom: 90px;
     right: 0%;
 
     font-size: var(--font-md);
 }
 .fv_productname{
     position: absolute;
-    bottom: 10px;
+    bottom: 30px;
     font-size: var(--font-lg);
     letter-spacing: 0.3em;
 }
