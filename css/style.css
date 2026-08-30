@@ -142,7 +142,7 @@ img{
 }
 .fv_title{
     position: absolute;
-    top: 25px;
+    top: 30px;
     right: 0;
 
     font-size: var(--font-xl);
@@ -159,7 +159,7 @@ img{
 }
 .fv_productname{
     position: absolute;
-    bottom: 30px;
+    bottom: 25px;
     font-size: var(--font-lg);
     letter-spacing: 0.3em;
 }
@@ -530,7 +530,8 @@ img{
   .fv-bg{
     background-position: left top;
   }
-  .fv_text{
+  .fv_text,
+  .fv_productname{
     bottom: 10px;
   }
 
