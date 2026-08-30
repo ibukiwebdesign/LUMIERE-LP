@@ -217,7 +217,7 @@ img{
 }
 .concept_img_product,
 .concept_img_woman {
-    box-shadow: 4px 4px 2px 0 rgba(64, 57, 54, 0.25);
+    box-shadow: 4px 4px 2px 0 rgba(64, 57, 54, 0.2);
 }
 .concept_img_product{
     display: block;
@@ -490,6 +490,9 @@ img{
 .final_cta_product{
     width: 80%;
     margin-block: 10px;
+
+    background-image: url(../images/final_cta_product_deco.svg);
+    background-size: cover;
 }
 .final_cta_productname{
     font-size: var(--font-lg);
