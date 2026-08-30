@@ -490,9 +490,10 @@ img{
 .final_cta_product{
     width: 80%;
     margin-block: 10px;
-
+}
+.final_cta_product_deco{
     background-image: url(../images/final_cta_product_deco.svg);
-    background-size: cover;
+    background-size: contain;
 }
 .final_cta_productname{
     font-size: var(--font-lg);
