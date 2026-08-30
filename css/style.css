@@ -142,7 +142,7 @@ img{
 }
 .fv_title{
     position: absolute;
-    top: 30px;
+    top: 25px;
     right: 0;
 
     font-size: var(--font-xl);
@@ -152,7 +152,7 @@ img{
 
 .fv_text{
     position: absolute;
-    bottom: 90px;
+    bottom: 85px;
     right: 0%;
 
     font-size: var(--font-md);
